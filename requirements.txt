@@ -2,6 +2,7 @@ ultralytics
 streamlit
 matplotlib
 opencv-python
+cmake
 numpy
 tqdm
 face_recognition
