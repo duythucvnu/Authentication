@@ -3,6 +3,7 @@ streamlit
 matplotlib
 opencv-python
 cmake
+dlib
 numpy
 tqdm
 face_recognition
