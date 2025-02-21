@@ -1,0 +1,10 @@
+ultralytics
+streamlit
+matplotlib
+opencv-python
+numpy
+tqdm
+face_recognition
+bcrypt
+requests
+watchdog
