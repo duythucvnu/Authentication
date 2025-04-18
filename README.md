@@ -8,17 +8,6 @@ A secure authentication system based on the Zero Trust Architecture (ZTA) model.
 - 🔑 **Password Authentication** with hashed storage
 - 📧 **Email-based OTP Verification**
 - 👁️ **Face Recognition** with real-time anti-spoofing
-- 🧠 **AI-based Behavioral Monitoring**
-- 📊 Continuous authentication & anomaly detection
-
-## 📌 Technologies Used
-
-- Python
-- OpenCV & Dlib (face detection & recognition)
-- YOLOv5/YOLOv9 (face anti-spoofing)
-- SQLite (user database)
-- smtplib (email OTP service)
-- NumPy, Scikit-learn, etc.
 
 ## 📁 Project Structure
 
@@ -52,7 +41,7 @@ A secure authentication system based on the Zero Trust Architecture (ZTA) model.
 
 4. **Run the app**
    ```bash
-   python main.py
+   streamlit run app.py
    ```
 
 ## 📷 Face Recognition & Anti-Spoofing
@@ -65,13 +54,3 @@ A secure authentication system based on the Zero Trust Architecture (ZTA) model.
 - **Verify Explicitly:** MFA with email OTP and facial biometrics
 - **Least Privilege Access:** Only valid users access system resources
 - **Assume Breach:** All access is re-verified; spoof attempts are blocked
-
-## 🧠 Future Improvements
-
-- Add voice-based authentication
-- Integrate role-based access control (RBAC)
-- Web deployment with Flask or FastAPI
-
-## 📄 License
-
-This project is licensed under the MIT License.
