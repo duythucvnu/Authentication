@@ -9,20 +9,6 @@ A secure authentication system based on the Zero Trust Architecture (ZTA) model.
 - 📧 **Email-based OTP Verification**
 - 👁️ **Face Recognition** with real-time anti-spoofing
 
-## 📁 Project Structure
-
-```
-.
-├── main.py                  # Entry point
-├── face_recognition/        # Face detection and recognition modules
-├── anti_spoofing/           # YOLO model and spoof detection
-├── otp_service/             # OTP generation and email sending
-├── database/                # User info and login data (SQLite)
-├── utils/                   # Helper functions
-├── user.db                  # Local user database
-└── README.md                # This file
-```
-
 ## 🚀 How to Run
 
 1. **Clone the repo**
