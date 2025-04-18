@@ -41,7 +41,12 @@ A secure authentication system based on the Zero Trust Architecture (ZTA) model.
 - **Least Privilege Access:** Only valid users access system resources
 - **Assume Breach:** All access is re-verified; spoof attempts are blocked
 
-[Watch Demo Video](assets/data/Demo.mp4)
+## 🎥 Demo Video
+<p align="center">
+  <a href="https://drive.google.com/file/d/1y1X1VyfWmoI48T_OwS5ifmkz_irg_xvJ/view?usp=sharing">
+    <img src="assets/thumbnail.png" alt="Watch the Demo" width="600"/>
+  </a>
+</p>
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License.
