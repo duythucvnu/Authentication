@@ -40,3 +40,8 @@ A secure authentication system based on the Zero Trust Architecture (ZTA) model.
 - **Verify Explicitly:** MFA with email OTP and facial biometrics
 - **Least Privilege Access:** Only valid users access system resources
 - **Assume Breach:** All access is re-verified; spoof attempts are blocked
+
+[Watch Demo Video](assets/data/Demo.mp4)
+
+##📄 License
+This project is licensed under the MIT License.
