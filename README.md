@@ -48,5 +48,10 @@ A secure authentication system based on the Zero Trust Architecture (ZTA) model.
   </a>
 </p>
 
+<video width="600" controls>
+  <source src="[assets/demo.mp4](https://drive.google.com/file/d/1y1X1VyfWmoI48T_OwS5ifmkz_irg_xvJ/view?usp=sharing)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## License
 This project is licensed under the MIT License.
