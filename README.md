@@ -13,7 +13,7 @@ A secure authentication system based on the Zero Trust Architecture (ZTA) model.
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/zero-trust-mfa.git
+   git clone https://github.com/duythucvnu/zero-trust-mfa.git
    cd zero-trust-mfa
    ```
 
