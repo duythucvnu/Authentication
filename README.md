@@ -42,16 +42,13 @@ A secure authentication system based on the Zero Trust Architecture (ZTA) model.
 - **Assume Breach:** All access is re-verified; spoof attempts are blocked
 
 ## Demo Video
+
+Click the thumbnail to see the demo of our project.
 <p align="center">
   <a href="https://drive.google.com/file/d/1y1X1VyfWmoI48T_OwS5ifmkz_irg_xvJ/view?usp=sharing">
     <img src="assets/thumbnail.jpg" alt="Watch the Demo" width="600"/>
   </a>
 </p>
-
-<video width="600" controls>
-  <source src="[assets/demo.mp4](https://drive.google.com/file/d/1y1X1VyfWmoI48T_OwS5ifmkz_irg_xvJ/view?usp=sharing)" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## License
 This project is licensed under the MIT License.
