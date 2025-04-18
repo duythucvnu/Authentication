@@ -22,10 +22,7 @@ A secure authentication system based on the Zero Trust Architecture (ZTA) model.
    pip install -r requirements.txt
    ```
 
-3. **Configure email (for OTP)**
-   - Set up a Gmail account and allow less secure app access or use an app-specific password.
-
-4. **Run the app**
+3. **Run the app**
    ```bash
    streamlit run app.py
    ```
